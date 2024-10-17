@@ -1,0 +1,2858 @@
+[
+  {
+    "id": "12979",
+    "image": "12979/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of North Dakota?\nOptions: (A) Pierre (B) Juneau (C) Bismarck (D) Jefferson City\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "2660",
+    "image": "2660/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Maryland?\nOptions: (A) Providence (B) Baltimore (C) Montpelier (D) Annapolis\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "6967",
+    "image": "6967/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\nOptions: (A) sample A (B) sample B (C) neither; the samples have the same temperature\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "12995",
+    "image": "12995/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which state is highlighted?\nOptions: (A) Montana (B) Oregon (C) California (D) Washington\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "18396",
+    "image": "18396/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this experiment, which were part of a control group?\nOptions: (A) the yards with empty feeders (B) the yards with feeders filled with sunflower seeds\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "6263",
+    "image": "6263/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of North Carolina?\nOptions: (A) Raleigh (B) Sacramento (C) Frankfort (D) Charlotte\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "5812",
+    "image": "5812/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is greater in Pair 1. (B) The magnitude of the magnetic force is greater in Pair 2. (C) The magnitude of the magnetic force is the same in both pairs.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "1232",
+    "image": "1232/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\nOptions: (A) neither; the samples have the same temperature (B) sample A (C) sample B\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "10090",
+    "image": "10090/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the expected ratio of offspring with a reddish-brown coat to offspring with a black coat? Choose the most likely ratio.\nOptions: (A) 1:3 (B) 4:0 (C) 3:1 (D) 0:4 (E) 2:2\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is E."
+      }
+    ]
+  },
+  {
+    "id": "1633",
+    "image": "1633/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the question that Dakota's experiment can best answer.\nOptions: (A) Do more tomato seedlings grow when they are planted in soil with fertilizer compared to soil without fertilizer? (B) Does the humidity level where tomato seeds are planted affect the number of tomato seedlings that grow?\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "517",
+    "image": "517/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which continent is highlighted?\nOptions: (A) North America (B) Africa (C) Asia\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "4361",
+    "image": "4361/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which continent is highlighted?\nOptions: (A) Europe (B) South America (C) Africa (D) North America\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "7038",
+    "image": "7038/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal's neck is also adapted for hunting prey while keeping the rest of its body still?\nOptions: (A) mallard (B) painted stork\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "20003",
+    "image": "20003/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Utah?\nOptions: (A) Denver (B) Provo (C) Salt Lake City (D) Orlando\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "2401",
+    "image": "2401/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) Saint Vincent and the Grenadines (B) Saint Lucia (C) Grenada (D) Haiti\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "10141",
+    "image": "10141/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the expected ratio of offspring with sweet fruit to offspring with sour fruit? Choose the most likely ratio.\nOptions: (A) 4:0 (B) 0:4 (C) 3:1 (D) 2:2 (E) 1:3\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "15772",
+    "image": "15772/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What can Shivani and Austin trade to each get what they want?\nOptions: (A) Austin can trade his almonds for Shivani's tomatoes. (B) Shivani can trade her tomatoes for Austin's broccoli. (C) Austin can trade his broccoli for Shivani's oranges. (D) Shivani can trade her tomatoes for Austin's carrots.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "3153",
+    "image": "3153/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following could Robert's test show?\nOptions: (A) how steady a parachute with a 1 m vent was at 200 km per hour (B) if the spacecraft was damaged when using a parachute with a 1 m vent going 200 km per hour (C) whether a parachute with a 1 m vent would swing too much at 400 km per hour\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "19525",
+    "image": "19525/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal's neck is also adapted for hunting prey while keeping the rest of its body still?\nOptions: (A) frigatebird (B) great blue heron\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "19042",
+    "image": "19042/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the following statement about our solar system true or false?\nThe smallest planet is made mainly of rock.\nOptions: (A) false (B) true\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "21076",
+    "image": "21076/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the fish below.\nOptions: (A) goldfish (B) European green toad\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "17667",
+    "image": "17667/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Hawaii?\nOptions: (A) Burlington (B) Indianapolis (C) Honolulu (D) Little Rock\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "20262",
+    "image": "20262/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these organisms contains matter that was once part of the bilberry?\nOptions: (A) collared lemming (B) earthworm (C) lichen (D) bear sedge\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "14428",
+    "image": "14428/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which i in row B?\nOptions: (A) the fire department (B) the police department (C) the library (D) the diner\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "5499",
+    "image": "5499/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) the Marshall Islands (B) Papua New Guinea (C) the Federated States of Micronesia (D) Palau\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "3213",
+    "image": "3213/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which trait did this aurochs have? Select the trait you can observe on the fossil.\nOptions: (A) four legs (B) a striped body\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "13459",
+    "image": "13459/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the following statement about our solar system true or false?\nThe volume of Earth is more than ten times the volume of Mercury.\nOptions: (A) true (B) false\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "15627",
+    "image": "15627/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which property matches this object?\nOptions: (A) blue (B) stretchy\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "2644",
+    "image": "2644/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the following statement about our solar system true or false?\nThe volume of Mars is more than ten times as large as Mercury's.\nOptions: (A) true (B) false\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "20020",
+    "image": "20020/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal's skin is also adapted for survival in cold places?\nOptions: (A) naked mole rat (B) snowy owl\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "6412",
+    "image": "6412/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What can Tara and Jeremiah trade to each get what they want?\nOptions: (A) Jeremiah can trade his almonds for Tara's tomatoes. (B) Jeremiah can trade his broccoli for Tara's oranges. (C) Tara can trade her tomatoes for Jeremiah's carrots. (D) Tara can trade her tomatoes for Jeremiah's broccoli.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "2400",
+    "image": "2400/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Will these magnets attract or repel each other?\nOptions: (A) attract (B) repel\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "6534",
+    "image": "6534/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does this passage describe the weather or the climate?\nOptions: (A) climate (B) weather\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "9670",
+    "image": "9670/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the organism in the same genus as the European nightjar.\nOptions: (A) Caprimulgus macrurus (B) Ulex europaeus (C) Acanthaster planci\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "17171",
+    "image": "17171/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is greater in Pair 2. (B) The magnitude of the magnetic force is the same in both pairs. (C) The magnitude of the magnetic force is greater in Pair 1.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "16410",
+    "image": "16410/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Missouri?\nOptions: (A) Kansas City (B) Saint Louis (C) Jefferson City (D) Richmond\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "10407",
+    "image": "10407/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Rhode Island?\nOptions: (A) Annapolis (B) Newport (C) Providence (D) Boston\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "6345",
+    "image": "6345/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the chemical formula for this molecule.\nOptions: (A) He2O2 (B) HO3 (C) H2O2 (D) CH2O2\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "2005",
+    "image": "2005/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which trait did Palaeopython have? Select the trait you can observe on the fossil.\nOptions: (A) black stripes on its skin (B) large fins on its body (C) a long, thin body\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "16026",
+    "image": "16026/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these states is farthest west?\nOptions: (A) North Carolina (B) Ohio (C) New Hampshire (D) Arizona\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "1874",
+    "image": "1874/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is smaller in Pair 1. (B) The magnitude of the magnetic force is smaller in Pair 2. (C) The magnitude of the magnetic force is the same in both pairs.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "2921",
+    "image": "2921/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which solution has a higher concentration of blue particles?\nOptions: (A) neither; their concentrations are the same (B) Solution A (C) Solution B\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "964",
+    "image": "964/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the question that Robert's experiment can best answer.\nOptions: (A) Do steel nails take fewer days to rust in water compared to vinegar? (B) Do steel nails rust in fewer days when submerged in a large volume of liquid compared to a small volume?\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "17613",
+    "image": "17613/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is greater in Pair 2. (B) The magnitude of the magnetic force is greater in Pair 1. (C) The magnitude of the magnetic force is the same in both pairs.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "3434",
+    "image": "3434/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal is also adapted to be camouflaged in a sandy desert?\nOptions: (A) horned viper (B) blue poison dart frog\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "13062",
+    "image": "13062/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the fish below.\nOptions: (A) clownfish (B) American alligator\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "4512",
+    "image": "4512/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which better describes the Serengeti National Park ecosystem?\nOptions: (A) It has a rainy season and a dry season. It also has long, cold winters. (B) It has warm summers and warm winters. It also has soil that is poor in nutrients.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "19782",
+    "image": "19782/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnetic force is weaker in Pair 1. (B) The strength of the magnetic force is the same in both pairs. (C) The magnetic force is weaker in Pair 2.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "16372",
+    "image": "16372/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the reptile below.\nOptions: (A) Hermann's tortoise (B) gray wolf\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "19355",
+    "image": "19355/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following could Harold's test show?\nOptions: (A) if the weather station would work when the temperature was 50\u00b0C (B) how well the weather station would work when it was windy\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "18707",
+    "image": "18707/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which better describes the tide pool ecosystems in Monta\u00f1a De Oro State Park?\nOptions: (A) It has daily flooding and draining of seawater. It also has water that is rich in nutrients. (B) It has no sunlight. It also has daily flooding and draining of seawater.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "1586",
+    "image": "1586/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these states is farthest south?\nOptions: (A) Missouri (B) Michigan (C) Maine (D) Oregon\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "18095",
+    "image": "18095/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the chemical formula for this molecule.\nOptions: (A) H3S2 (B) He2S2 (C) H2S (D) H2SN\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "5770",
+    "image": "5770/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which property do these four objects have in common?\nOptions: (A) fragile (B) transparent (C) opaque\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "8080",
+    "image": "8080/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which trait did Pentasteria have? Select the trait you can observe on the fossil.\nOptions: (A) red skin (B) a long tube-shaped body (C) five arms\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "19206",
+    "image": "19206/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Iowa?\nOptions: (A) Cedar Rapids (B) Des Moines (C) Springfield (D) Saint Paul\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "18136",
+    "image": "18136/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is the same in both pairs. (B) The magnitude of the magnetic force is greater in Pair 2. (C) The magnitude of the magnetic force is greater in Pair 1.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "7301",
+    "image": "7301/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Complete the text to describe the diagram.\nSolute particles moved in both directions across the permeable membrane. But more solute particles moved across the membrane (). When there was an equal concentration on both sides, the particles reached equilibrium.\nOptions: (A) to the right than to the left (B) to the left than to the right\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "12587",
+    "image": "12587/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these states is farthest west?\nOptions: (A) Illinois (B) Georgia (C) Maryland (D) Ohio\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "11120",
+    "image": "11120/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these states is farthest north?\nOptions: (A) Delaware (B) West Virginia (C) Iowa (D) Alabama\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "12652",
+    "image": "12652/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which type of force from the older brother moves the car forward?\nOptions: (A) pull (B) push\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "2328",
+    "image": "2328/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Pennsylvania?\nOptions: (A) Hartford (B) Harrisburg (C) Nashville (D) Pittsburgh\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "17098",
+    "image": "17098/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the direction of this push?\nOptions: (A) toward the stick (B) away from the stick\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "13197",
+    "image": "13197/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) Dominica (B) Saint Kitts and Nevis (C) Jamaica (D) the Dominican Republic\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "3093",
+    "image": "3093/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Minnesota?\nOptions: (A) New Haven (B) Saint Paul (C) Dover (D) Colorado Springs\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "12608",
+    "image": "12608/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What can Lamar and Jackson trade to each get what they want?\nOptions: (A) Jackson can trade his almonds for Lamar's tomatoes. (B) Jackson can trade his broccoli for Lamar's oranges. (C) Lamar can trade his tomatoes for Jackson's carrots. (D) Lamar can trade his tomatoes for Jackson's broccoli.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "18055",
+    "image": "18055/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal's skin is better adapted as a warning sign to ward off predators?\nOptions: (A) gray tree frog (B) Spanish shawl nudibranch\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "4505",
+    "image": "4505/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Michigan?\nOptions: (A) Pierre (B) Charleston (C) Grand Rapids (D) Lansing\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "2792",
+    "image": "2792/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which property do these three objects have in common?\nOptions: (A) shiny (B) slippery (C) hard\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "18562",
+    "image": "18562/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these continents does the equator intersect?\nOptions: (A) Australia (B) Europe (C) Africa\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "4459",
+    "image": "4459/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) Solomon Islands (B) New Zealand (C) the Federated States of Micronesia (D) Papua New Guinea\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "11421",
+    "image": "11421/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Complete the statement.\nChloroform is ().\nOptions: (A) a compound (B) an elementary substance\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "7859",
+    "image": "7859/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which material is this bucket made of?\nOptions: (A) metal (B) porcelain\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "14637",
+    "image": "14637/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Idaho?\nOptions: (A) Boise (B) Baton Rouge (C) Atlanta (D) Nampa\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "17004",
+    "image": "17004/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the probability that a Syrian hamster produced by this cross will have wavy fur?\nOptions: (A) 3/4 (B) 2/4 (C) 4/4 (D) 0/4 (E) 1/4\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is E."
+      }
+    ]
+  },
+  {
+    "id": "12105",
+    "image": "12105/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does Rhizophora mangle have cells that have a nucleus?\nOptions: (A) yes (B) no\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "674",
+    "image": "674/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the name of the colony shown?\nOptions: (A) Maine (B) Maryland (C) New Hampshire (D) North Carolina\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "7546",
+    "image": "7546/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the name of the colony shown?\nOptions: (A) Pennsylvania (B) Connecticut (C) Massachusetts (D) Wisconsin\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "16699",
+    "image": "16699/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these organisms contains matter that was once part of the kelp?\nOptions: (A) plainfin midshipman (B) sea cucumber (C) zooplankton\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "2574",
+    "image": "2574/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) Solomon Islands (B) the Marshall Islands (C) Tonga (D) Fiji\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "3476",
+    "image": "3476/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is a crown a solid or a liquid?\nOptions: (A) a liquid (B) a solid\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "13687",
+    "image": "13687/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of California?\nOptions: (A) Sacramento (B) Boise (C) Honolulu (D) San Francisco\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "10960",
+    "image": "10960/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) Haiti (B) the Dominican Republic (C) Cuba (D) Dominica\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "16293",
+    "image": "16293/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which ocean is highlighted?\nOptions: (A) the Atlantic Ocean (B) the Indian Ocean (C) the Arctic Ocean (D) the Pacific Ocean\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "5441",
+    "image": "5441/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the question that Zach's experiment can best answer.\nOptions: (A) Do steel nails rust in fewer days when submerged in a large volume of liquid compared to a small volume? (B) Do steel nails take fewer days to rust in water compared to vinegar?\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "6987",
+    "image": "6987/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which type of force from the student's finger presses the key on the keyboard?\nOptions: (A) push (B) pull\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "16011",
+    "image": "16011/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following fossils is younger? Select the more likely answer.\nOptions: (A) ginkgo leaf (B) insect\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "13247",
+    "image": "13247/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of West Virginia?\nOptions: (A) Huntington (B) Oklahoma City (C) Charleston (D) Buffalo\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "15642",
+    "image": "15642/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) Solomon Islands (B) Australia (C) the Marshall Islands (D) Vanuatu\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "14985",
+    "image": "14985/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is greater in Pair 2. (B) The magnitude of the magnetic force is greater in Pair 1. (C) The magnitude of the magnetic force is the same in both pairs.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "4844",
+    "image": "4844/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the mammal below.\nOptions: (A) Banggai cardinalfish (B) black howler (C) snowy owl (D) gray crowned crane\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "14759",
+    "image": "14759/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal's limbs are also adapted for climbing trees?\nOptions: (A) California sea lion (B) lar gibbon\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "20709",
+    "image": "20709/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Montana?\nOptions: (A) Plymouth (B) Boise (C) Helena (D) Billings\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "20115",
+    "image": "20115/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which material is this spatula made of?\nOptions: (A) cotton (B) wood\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "17488",
+    "image": "17488/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the following statement about our solar system true or false?\nNeptune's volume is more than 50 times as great as that of Earth.\nOptions: (A) true (B) false\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "14349",
+    "image": "14349/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of California?\nOptions: (A) Birmingham (B) Charleston (C) Sacramento (D) Richmond\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "15749",
+    "image": "15749/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) Australia (B) Fiji (C) Tuvalu (D) Solomon Islands\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "7916",
+    "image": "7916/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is greater in Pair 2. (B) The magnitude of the magnetic force is greater in Pair 1. (C) The magnitude of the magnetic force is the same in both pairs.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "15813",
+    "image": "15813/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Indiana?\nOptions: (A) Des Moines (B) Burlington (C) Fort Wayne (D) Indianapolis\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "19470",
+    "image": "19470/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which solution has a higher concentration of blue particles?\nOptions: (A) neither; their concentrations are the same (B) Solution B (C) Solution A\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "19036",
+    "image": "19036/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What can Brendan and Isaac trade to each get what they want?\nOptions: (A) Isaac can trade his broccoli for Brendan's oranges. (B) Isaac can trade his almonds for Brendan's tomatoes. (C) Brendan can trade his tomatoes for Isaac's broccoli. (D) Brendan can trade his tomatoes for Isaac's sandwich.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "10330",
+    "image": "10330/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Texas?\nOptions: (A) Raleigh (B) Montgomery (C) Austin (D) Dallas\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "4271",
+    "image": "4271/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What can Jonah and Cassie trade to each get what they want?\nOptions: (A) Cassie can trade her broccoli for Jonah's oranges. (B) Jonah can trade his tomatoes for Cassie's carrots. (C) Cassie can trade her almonds for Jonah's tomatoes. (D) Jonah can trade his tomatoes for Cassie's broccoli.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "11897",
+    "image": "11897/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Mississippi?\nOptions: (A) Harrisburg (B) Biloxi (C) Jackson (D) Rapid City\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "15637",
+    "image": "15637/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these states is farthest north?\nOptions: (A) New Mexico (B) Missouri (C) Virginia (D) Pennsylvania\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "17503",
+    "image": "17503/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which specific humidity level was measured within the outlined area shown?\nOptions: (A) 12 grams of water vapor per kilogram of air (B) 14 grams of water vapor per kilogram of air (C) 21 grams of water vapor per kilogram of air\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "19681",
+    "image": "19681/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look at the models of molecules below. Select the elementary substance.\nOptions: (A) acetaldehyde (B) chloroform (C) oxygen\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "10244",
+    "image": "10244/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following could Sebastian's test show?\nOptions: (A) how steady a parachute with a 1 m vent was at 200 km per hour (B) whether a parachute with a 1 m vent would swing too much at 400 km per hour (C) if the spacecraft was damaged when using a parachute with a 1 m vent going 200 km per hour\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "7083",
+    "image": "7083/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Montana?\nOptions: (A) Helena (B) Birmingham (C) Tucson (D) Salem\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "10001",
+    "image": "10001/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is the same in both pairs. (B) The magnitude of the magnetic force is smaller in Pair 1. (C) The magnitude of the magnetic force is smaller in Pair 2.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "16629",
+    "image": "16629/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\nOptions: (A) sample A (B) neither; the samples have the same temperature (C) sample B\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "21199",
+    "image": "21199/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which continent is highlighted?\nOptions: (A) Asia (B) Europe (C) Australia (D) North America\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "14136",
+    "image": "14136/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the reptile below.\nOptions: (A) California toad (B) Hermann's tortoise\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "18030",
+    "image": "18030/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of New Mexico?\nOptions: (A) Helena (B) Colorado Springs (C) Santa Fe (D) Albuquerque\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "2274",
+    "image": "2274/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the name of the colony shown?\nOptions: (A) Connecticut (B) Pennsylvania (C) New Hampshire (D) Vermont\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "3259",
+    "image": "3259/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) Kiribati (B) Tuvalu (C) Tonga (D) the Marshall Islands\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "8294",
+    "image": "8294/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which ocean is highlighted?\nOptions: (A) the Atlantic Ocean (B) the Indian Ocean (C) the Southern Ocean (D) the Pacific Ocean\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "10889",
+    "image": "10889/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal's mouth is also adapted to tear through meat?\nOptions: (A) orca (B) tamandua\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "584",
+    "image": "584/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Washington?\nOptions: (A) Santa Fe (B) Lansing (C) Olympia (D) Seattle\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "18560",
+    "image": "18560/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which continent is highlighted?\nOptions: (A) Australia (B) Asia (C) Africa (D) North America\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "13078",
+    "image": "13078/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which bird's beak is also adapted to crack hard seeds?\nOptions: (A) common swift (B) hawfinch\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "13605",
+    "image": "13605/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) The Bahamas (B) Haiti (C) Cuba (D) Antigua and Barbuda\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "11285",
+    "image": "11285/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the organism in the same species as the purple heron.\nOptions: (A) Caprimulgus europaeus (B) Ardea purpurea (C) Ardea herodias\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "15596",
+    "image": "15596/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal's legs are also adapted for wading?\nOptions: (A) African fish eagle (B) great egret\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "13199",
+    "image": "13199/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the fish below.\nOptions: (A) piranha (B) American bullfrog (C) olive toad (D) sea otter\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "11180",
+    "image": "11180/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the direction of this push?\nOptions: (A) toward the boy's thumb (B) away from the boy's thumb\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "11921",
+    "image": "11921/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Maine?\nOptions: (A) Montpelier (B) Providence (C) Augusta (D) Portland\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "13263",
+    "image": "13263/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Montana?\nOptions: (A) Anchorage (B) Los Angeles (C) Helena (D) Honolulu\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "10955",
+    "image": "10955/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What can Tristan and Lorenzo trade to each get what they want?\nOptions: (A) Lorenzo can trade his broccoli for Tristan's oranges. (B) Tristan can trade his tomatoes for Lorenzo's broccoli. (C) Lorenzo can trade his almonds for Tristan's tomatoes. (D) Tristan can trade his tomatoes for Lorenzo's carrots.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "19043",
+    "image": "19043/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is Nerium oleander made up of many cells?\nOptions: (A) no (B) yes\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "6626",
+    "image": "6626/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Oklahoma?\nOptions: (A) Tallahassee (B) Little Rock (C) Oklahoma City (D) Missoula\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "12673",
+    "image": "12673/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these states is farthest west?\nOptions: (A) Colorado (B) California (C) Texas (D) North Dakota\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "10556",
+    "image": "10556/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) the Dominican Republic (B) Dominica (C) Trinidad and Tobago (D) Grenada\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "16213",
+    "image": "16213/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is greater in Pair 1. (B) The magnitude of the magnetic force is greater in Pair 2. (C) The magnitude of the magnetic force is the same in both pairs.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "519",
+    "image": "519/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these states is farthest north?\nOptions: (A) Florida (B) Illinois (C) Ohio (D) New Hampshire\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "3629",
+    "image": "3629/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "According to the text, what evidence of a volcanic eruption did the captain observe?\nOptions: (A) He heard a report on the radio warning about a volcanic eruption. (B) He saw a nearby boat that was on fire. (C) He smelled sulfur and saw pieces of molten rock shooting out of the water.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "15457",
+    "image": "15457/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which solution has a higher concentration of purple particles?\nOptions: (A) Solution A (B) neither; their concentrations are the same (C) Solution B\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "14146",
+    "image": "14146/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which property do these three objects have in common?\nOptions: (A) shiny (B) fuzzy (C) transparent\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "15763",
+    "image": "15763/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Arizona?\nOptions: (A) Juneau (B) Phoenix (C) Provo (D) Newport\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "4639",
+    "image": "4639/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which statement describes the Cerrado ecosystem?\nOptions: (A) It has warm summers and warm winters. (B) It has a small amount of rain.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "1392",
+    "image": "1392/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following organisms is the decomposer in this food web?\nOptions: (A) green algae (B) water mold (C) golden algae\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "7758",
+    "image": "7758/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these states is farthest east?\nOptions: (A) California (B) Idaho (C) New Mexico (D) Nebraska\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "6201",
+    "image": "6201/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following could Lamar's test show?\nOptions: (A) whether the filter was clogged (B) the amount of bacteria in the water before it was filtered (C) whether an inexpensive filter would become clogged more often\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "19287",
+    "image": "19287/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the name of the colony shown?\nOptions: (A) New Jersey (B) Pennsylvania (C) Virginia (D) New York\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "13457",
+    "image": "13457/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the question that Edwin's experiment can best answer.\nOptions: (A) Does apple juice expand more or less than water when it freezes? (B) Does water freeze more quickly than apple juice?\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "17846",
+    "image": "17846/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this experiment, which were part of a control group?\nOptions: (A) the uncovered side mirrors (B) the covered side mirrors\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "14639",
+    "image": "14639/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the organism in the same genus as the Japanese honeysuckle.\nOptions: (A) Hyacinthus orientalis (B) Lonicera maackii (C) Ulex europaeus\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "4562",
+    "image": "4562/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Connecticut?\nOptions: (A) Spokane (B) Bridgeport (C) New Haven (D) Hartford\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "18127",
+    "image": "18127/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the direction of this pull?\nOptions: (A) toward her hand (B) away from her hand\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "8070",
+    "image": "8070/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following could Hector's test show?\nOptions: (A) whether the filter was clogged (B) the amount of bacteria in the water before it was filtered (C) whether an inexpensive filter would become clogged more often\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "19253",
+    "image": "19253/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Rhode Island?\nOptions: (A) Newport (B) Providence (C) Hartford (D) Concord\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "16744",
+    "image": "16744/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the name of the colony shown?\nOptions: (A) South Carolina (B) Massachusetts (C) New Jersey (D) Georgia\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "18349",
+    "image": "18349/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal's skin is better adapted for protection against a predator with sharp teeth?\nOptions: (A) Grant's gazelle (B) nine-banded armadillo\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "7494",
+    "image": "7494/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the organism in the same genus as the Chinese alligator.\nOptions: (A) Miscanthus sinensis (B) Alligator sinensis (C) Strix varia\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "15080",
+    "image": "15080/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Colorado?\nOptions: (A) Denver (B) Dallas (C) Sioux Falls (D) Green Bay\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "12287",
+    "image": "12287/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of California?\nOptions: (A) Los Angeles (B) Sacramento (C) San Francisco (D) Nampa\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "4263",
+    "image": "4263/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which solution has a higher concentration of blue particles?\nOptions: (A) Solution B (B) neither; their concentrations are the same (C) Solution A\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "5981",
+    "image": "5981/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Oklahoma?\nOptions: (A) Jackson (B) Oklahoma City (C) Concord (D) Birmingham\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "14648",
+    "image": "14648/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal's feet are also adapted to walk on snow and ice?\nOptions: (A) Eurasian lynx (B) Suriname toad\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "7055",
+    "image": "7055/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is the same in both pairs. (B) The magnitude of the magnetic force is smaller in Pair 2. (C) The magnitude of the magnetic force is smaller in Pair 1.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "19665",
+    "image": "19665/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these states is farthest west?\nOptions: (A) Illinois (B) Ohio (C) Arkansas (D) South Carolina\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "2073",
+    "image": "2073/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the mammal below.\nOptions: (A) gray wolf (B) keel-billed toucan\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "20889",
+    "image": "20889/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which continent is highlighted?\nOptions: (A) Africa (B) Australia (C) Antarctica (D) Asia\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "1628",
+    "image": "1628/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this food web, which organism contains matter that eventually moves to the bat star?\nOptions: (A) sea cucumber (B) sea otter (C) phytoplankton\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "20890",
+    "image": "20890/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the Steller's jay's scientific name?\nOptions: (A) Cyanocitta stelleri (B) Cyanocitta cristata\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "6381",
+    "image": "6381/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which better describes the Masoala National Park ecosystem?\nOptions: (A) It has year-round rain. It also has many different types of organisms. (B) It has cold winters. It also has many different types of organisms.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "7121",
+    "image": "7121/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which material is these swim goggles made of?\nOptions: (A) wool (B) plastic\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "16606",
+    "image": "16606/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the organism in the same species as the reticulated python.\nOptions: (A) Python reticulatus (B) Nerodia cyclopion (C) Morelia viridis\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "5189",
+    "image": "5189/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which is this organism's common name?\nOptions: (A) Carassius auratus (B) goldfish\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "2566",
+    "image": "2566/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Will these magnets attract or repel each other?\nOptions: (A) attract (B) repel\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "3752",
+    "image": "3752/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the painting, which was true about ironclads?\nOptions: (A) They were powered by oars. (B) They didn't have weapons. (C) They were made of metal. (D) They used sails.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "14048",
+    "image": "14048/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is greater in Pair 1. (B) The magnitude of the magnetic force is the same in both pairs. (C) The magnitude of the magnetic force is greater in Pair 2.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "10899",
+    "image": "10899/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What can Ian and Joseph trade to each get what they want?\nOptions: (A) Joseph can trade his almonds for Ian's tomatoes. (B) Ian can trade his tomatoes for Joseph's carrots. (C) Ian can trade his tomatoes for Joseph's broccoli. (D) Joseph can trade his broccoli for Ian's oranges.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "14840",
+    "image": "14840/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal's feet are also adapted for digging?\nOptions: (A) groundhog (B) tokay gecko\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "10700",
+    "image": "10700/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of New Hampshire?\nOptions: (A) Salem (B) Concord (C) Fort Wayne (D) Manchester\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "15289",
+    "image": "15289/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\nOptions: (A) sample A (B) sample B (C) neither; the samples have the same temperature\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "11333",
+    "image": "11333/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\nOptions: (A) sample B (B) neither; the samples have the same temperature (C) sample A\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "3934",
+    "image": "3934/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this experiment, which were part of a control group?\nOptions: (A) the sections of wall scrubbed with water and baking soda (B) the sections of wall scrubbed with water only\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "14162",
+    "image": "14162/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the following statement about our solar system true or false?\n50% of the planets are made mainly of gas.\nOptions: (A) true (B) false\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "11227",
+    "image": "11227/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which statement describes the Mount Rainier National Park ecosystem?\nOptions: (A) It has many evergreen trees. (B) It has soil that is frozen year-round.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "670",
+    "image": "670/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Nevada?\nOptions: (A) Sacramento (B) Las Vegas (C) Carson City (D) Jefferson City\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "11532",
+    "image": "11532/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the question that Tanvi's experiment can best answer.\nOptions: (A) Are eggs more likely to float in fresh water or salty water? (B) Does the amount of water in a glass affect whether eggs sink or float in the water?\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "16459",
+    "image": "16459/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the name of the colony shown?\nOptions: (A) Pennsylvania (B) New Jersey (C) New York (D) Maryland\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "13896",
+    "image": "13896/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "During this time, thermal energy was transferred from () to ().\nOptions: (A) the surroundings . . . each battery (B) each battery . . . the surroundings\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "3156",
+    "image": "3156/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the organism in the same species as the Christmas tree worm.\nOptions: (A) Nerodia clarkii (B) Spirobranchus giganteus (C) Nerodia cyclopion\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "15765",
+    "image": "15765/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Kansas?\nOptions: (A) Bismarck (B) Indianapolis (C) Topeka (D) Burlington\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "13947",
+    "image": "13947/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Illinois?\nOptions: (A) Springfield (B) Albany (C) Chicago (D) Madison\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "8332",
+    "image": "8332/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which is the main persuasive appeal used in this ad?\nOptions: (A) logos (reason) (B) ethos (character) (C) pathos (emotion)\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "788",
+    "image": "788/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these states is farthest west?\nOptions: (A) Missouri (B) Florida (C) Montana (D) Oregon\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "11917",
+    "image": "11917/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Georgia?\nOptions: (A) Augusta (B) Lincoln (C) Jackson (D) Atlanta\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "16879",
+    "image": "16879/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Oregon?\nOptions: (A) Salem (B) Portland (C) Phoenix (D) Salt Lake City\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "10523",
+    "image": "10523/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nOptions: (A) The magnitude of the magnetic force is smaller in Pair 2. (B) The magnitude of the magnetic force is the same in both pairs. (C) The magnitude of the magnetic force is smaller in Pair 1.\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "4288",
+    "image": "4288/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Select the mammal below.\nOptions: (A) Japanese tree frog (B) human\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "18796",
+    "image": "18796/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of the following could Colette and Alexandra's test show?\nOptions: (A) if a new batch of concrete was firm enough to use (B) if the concrete from each batch took the same amount of time to dry\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "6738",
+    "image": "6738/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "After the Akkadian Empire ended, many cities and empires tried to control Mesopotamia. Around the 1790s BCE, which empire started controlling Mesopotamia?\nOptions: (A) the Elamite Empire (B) the Akkadian Empire (C) the Babylonian Empire (D) the Neo-Sumerian Empire\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "14971",
+    "image": "14971/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which of these states is farthest west?\nOptions: (A) Georgia (B) Iowa (C) New York (D) North Dakota\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "10729",
+    "image": "10729/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which continent is highlighted?\nOptions: (A) Africa (B) Europe (C) South America (D) North America\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "13017",
+    "image": "13017/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which continent is highlighted?\nOptions: (A) Europe (B) Asia (C) Africa (D) South America\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is A."
+      }
+    ]
+  },
+  {
+    "id": "8880",
+    "image": "8880/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which animal's feet are also adapted for walking on large, floating leaves?\nOptions: (A) Magellan penguin (B) purple gallinule\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "17689",
+    "image": "17689/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Ohio?\nOptions: (A) Montgomery (B) Cleveland (C) Cincinnati (D) Columbus\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "10266",
+    "image": "10266/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the name of the colony shown?\nOptions: (A) Massachusetts (B) Maryland (C) North Carolina (D) New Hampshire\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is D."
+      }
+    ]
+  },
+  {
+    "id": "17319",
+    "image": "17319/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which country is highlighted?\nOptions: (A) Solomon Islands (B) Australia (C) Nauru (D) Papua New Guinea\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  },
+  {
+    "id": "781",
+    "image": "781/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the capital of Rhode Island?\nOptions: (A) Fayetteville (B) Huntington (C) Providence (D) Newport\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is C."
+      }
+    ]
+  },
+  {
+    "id": "20245",
+    "image": "20245/image.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\nOptions: (A) sample A (B) sample B (C) neither; the samples have the same temperature\n<image>"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is B."
+      }
+    ]
+  }
+]
